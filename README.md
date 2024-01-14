@@ -1,5 +1,12 @@
 # Github-profile-extractor
-A simple tool to fetch user details of a GitHub profile.
+A simple tool to fetch user details of a GitHub profile. The authentication for a user is handled using Google firebase.
+
+
+#Steps to run the project
+
+1. First install tha packages using `npm install`
+2. Next cd code/
+3. npm start
 
 
 ## Screenshots
